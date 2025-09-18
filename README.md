@@ -8,6 +8,6 @@ I have strong experience working with a wide range of technologies and methodolo
 |-------------|---------------------|--------------------|------------------|----------------|--------------|------------------|-----------------------|
 | JavaScript  | React               | Node.js Express/Koa| AWS              | GitHub Actions | Scrum        | iTerm2           | ImageMagick           |
 | Python      | Astro               | Nest               | Microsoft Azure  | Jenkins        | Kanban       | Windows Terminal | FFmpeg                |
-| Bash, Pwsh  | Angular             | Fask               | RedHat OpenShift | Bamboo         | FDD          | zsh              | HTML, CSS, SCSS, SASS |
+| Bash, Pwsh  |                     | Flask              | RedHat OpenShift | Bamboo         | FDD          | zsh              | HTML, CSS, SCSS, SASS |
 | PHP, Java   |                     |                    | Google Cloud     |                |              | pwsh             | Markdown, Mermaid     |
 | SQL         |                     |                    |                  |                |              | Oh My Zsh/Posh   | Docker                |
